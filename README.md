@@ -11,5 +11,5 @@
 just run main.py file
 
 ## To deploy model
-I used heroku: you just need to link github branch (heroku branch) to heroku account.
+I used heroku: you just need to link github branch (heroku branch) to your heroku account.
 
